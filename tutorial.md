@@ -32,6 +32,7 @@ START
 CALL DNA_BINDING_DOMAIN
 ATC GFP
 END
+```
 
 ## Step 3: Write Your Full PAL Program
 
@@ -51,6 +52,7 @@ FUNC PHOSPHORYLATION_DOMAIN
     CATALYZE PHOSPHORYLATION
     SIGNAL CYTOPLASM
 END FUNC
+```
 
 ## Step 4: Compile PAL to mRNA
 
@@ -80,6 +82,7 @@ CALL PHOSPHORYLATION_DOMAIN
 ATC GFP
 END
 """
+```
 
 mrna = compile_pal_to_mrna_with_functions(pal_code)
 print("Injectable mRNA sequence:\n", mrna)
