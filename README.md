@@ -62,6 +62,7 @@ Clone the project manually:
 git clone https://github.com/yourusername/pal.git
 cd pal
 pip install -r requirements.txt  # optional
+```
 
 # 🧚 PAL — Program Proteins Like Software
 
@@ -231,11 +232,9 @@ See the `LICENSE` file for full terms.
 
 ## 👨‍🎓 Contact
 
-**Your Name** — \[[your.email@example.com](mailto:your.email@example.com)]
-GitHub — [github.com/yourusername/pal](https://github.com/yourusername/pal)
+GitHub — [github.com/DaMathCoder/pal](https://github.com/DaMathCoder/pal)
 
 ---
 
 🧚 **PAL — Protein Assembly Language**
-Design biology like you wri
-
+Design biology like you write code.
