@@ -15,6 +15,7 @@ FUNC DNA_BINDING_DOMAIN
     BIND DNA
     SIGNAL NUCLEUS
 END FUNC
+```
 
 # Protein Assembly Language (PAL) - Quickstart Guide
 
